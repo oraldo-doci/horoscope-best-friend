@@ -46,7 +46,7 @@ function myFunctionCh() {
     x.style.display = "none";
   }
 }
-function myFunctionGe() {
+function myFunctionGr() {
   var x = document.getElementById("card-greyhound");
   if (x.style.display === "none") {
     x.style.display = "block";
