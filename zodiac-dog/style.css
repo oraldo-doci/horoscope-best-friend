@@ -1,13 +1,11 @@
 body {
-  
+  background: url("/public/back-astrology.jpg");
+  background: no-repeat;
   font-family: "PT Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   justify-content: center;
   text-align: center;
 }
-.content{
-  background: url("/public/back-astrology.jpg");
-  background: no-repeat;
-}
+
 text {
   font-size: 3vw;
 }
